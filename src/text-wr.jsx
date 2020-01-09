@@ -1,5 +1,5 @@
 import React from 'react';
-
+//create text
 class Text extends React.Component {
 	render() {
 		return (
@@ -7,7 +7,7 @@ class Text extends React.Component {
 				<div className="row no-gutters slider-text align-items-center justify-content-center">
 					<div className="col-md-9 ftco-animate text-center">
 						<p className="breadcrumbs">
-							<span className="mr-2">
+							<span className="mr-2 color">
 								<a href="index.html">Home</a>
 							</span>{' '}
 							<span>
